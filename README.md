@@ -52,7 +52,8 @@ Welcome to the Full Stack MERN Estate Project! This project is designed to provi
 
 
 
-![image](https://github.com/mr0nerd/MERN-Estate/assets/148885897/0f9509c5-444f-444b-af6b-d6180b7f82e2)
+![image](https://github.com/mr0nerd/MERN-Estate/assets/148885897/b36fbca1-2acf-4e82-aa1a-753598775f20)
+
 
 
 
