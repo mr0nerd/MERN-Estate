@@ -69,7 +69,7 @@ export const getListings = async (req, res, next) => {
     let offer = req.query.offer;
 
     if (offer === undefined || offer === 'false') {
-      offer = { $in: [false, true] };
+      offer = { $in: [false, true] };//if offer is undefined or false then by default we will show listing with and without offer.i.e , offer is set to both true and false
     }
 
     let furnished = req.query.furnished;
@@ -112,3 +112,5 @@ export const getListings = async (req, res, next) => {
     next(error);
   }
 };
+
+
